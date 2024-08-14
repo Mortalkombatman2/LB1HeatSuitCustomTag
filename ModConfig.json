@@ -1,0 +1,21 @@
+{
+  "ModId": "CustomTags_HeatSuit",
+  "ModName": "Lego Batman Heat Suit Custom Tag",
+  "ModAuthor": "Miss Fortune Main, Chi Chi",
+  "ModVersion": "1.0.0",
+  "ModDescription": "This mod gives you the ability to add custom tags for heatsuit property in LB1",
+  "ModDll": "CustomTags_HeatSuit.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/CustomTags_HeatSuit.dll",
+  "ModR2RManagedDll64": "x64/CustomTags_HeatSuit.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "CustomTags_HeatSuit.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}

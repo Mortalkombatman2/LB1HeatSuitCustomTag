@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZKTv09aDlU=",
+  "success": true,
+  "projectFilePath": "G:\\vs stuff\\solutions\\CustomTags_HeatSuit\\CustomTags_HeatSuit\\CustomTags_HeatSuit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\reloaded.hooks.definitions\\1.11.0\\reloaded.hooks.definitions.1.11.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\reloaded.memory\\9.4.2\\reloaded.memory.9.4.2.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\reloaded.mod.interfaces\\2.4.0\\reloaded.mod.interfaces.2.4.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\reloaded.sharedlib.hooks\\1.9.0\\reloaded.sharedlib.hooks.1.9.0.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

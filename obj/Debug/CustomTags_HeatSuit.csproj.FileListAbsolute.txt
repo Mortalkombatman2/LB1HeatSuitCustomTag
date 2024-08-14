@@ -1,0 +1,15 @@
+G:\lego stuff\reloaded 2\Mods\CustomTags_HeatSuit\Preview.png
+G:\lego stuff\reloaded 2\Mods\CustomTags_HeatSuit\ModConfig.json
+G:\lego stuff\reloaded 2\Mods\CustomTags_HeatSuit\CustomTags_HeatSuit.deps.json
+G:\lego stuff\reloaded 2\Mods\CustomTags_HeatSuit\CustomTags_HeatSuit.dll
+G:\lego stuff\reloaded 2\Mods\CustomTags_HeatSuit\CustomTags_HeatSuit.pdb
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.csproj.AssemblyReference.cache
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.GeneratedMSBuildEditorConfig.editorconfig
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.AssemblyInfoInputs.cache
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.AssemblyInfo.cs
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.csproj.CoreCompileInputs.cache
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTa.9E8D0352.Up2Date
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.dll
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\refint\CustomTags_HeatSuit.dll
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\CustomTags_HeatSuit.pdb
+G:\vs stuff\solutions\CustomTags_HeatSuit\CustomTags_HeatSuit\obj\Debug\ref\CustomTags_HeatSuit.dll
