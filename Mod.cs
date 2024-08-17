@@ -110,7 +110,7 @@ namespace CustomTags_HeatSuit
 
             string[] CustomTagNames = {
                 "Heat_Protection", "Heat_Protect", "Thermal_Protection",
-                "Thermal Protect", "Heat_Suit", "Heat_Resistance", "Heat_Resist",
+                "Thermal_Protect", "Heat_Suit", "Heat_Resistance", "Heat_Resist",
                 "Cannot_Be_Burnt", "Cannot_Be_Burned", "Cannot_Burn",
                 "Cant_Burn","Fireproof"
             };
