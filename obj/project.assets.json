@@ -28,6 +28,35 @@
           }
         }
       },
+      "Reloaded.Memory.Sigscan.Definitions/1.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Reloaded.Memory.Sigscan.Definitions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Reloaded.Memory.Sigscan.Definitions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Reloaded.Memory.SigScan.ReloadedII.Interfaces/1.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Reloaded.Memory.Sigscan.Definitions": "1.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Reloaded.Memory.SigScan.ReloadedII.Interfaces.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Reloaded.Memory.SigScan.ReloadedII.Interfaces.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Reloaded.Mod.Interfaces/2.4.0": {
         "type": "package",
         "compile": {
@@ -110,6 +139,35 @@
         "reloaded.memory.nuspec"
       ]
     },
+    "Reloaded.Memory.Sigscan.Definitions/1.1.0": {
+      "sha512": "jJYe9pZAzdK0MSaSOmMFPWZ5258YYcn89MnQVnb1AY8QrIf9KmhBOYwNPuc7f0hPV9lIr1i4w3La/ngnaA5Ylg==",
+      "type": "package",
+      "path": "reloaded.memory.sigscan.definitions/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/netcoreapp3.1/Reloaded.Memory.Sigscan.Definitions.dll",
+        "lib/netcoreapp3.1/Reloaded.Memory.Sigscan.Definitions.xml",
+        "lib/netstandard2.0/Reloaded.Memory.Sigscan.Definitions.dll",
+        "lib/netstandard2.0/Reloaded.Memory.Sigscan.Definitions.xml",
+        "reloaded.memory.sigscan.definitions.1.1.0.nupkg.sha512",
+        "reloaded.memory.sigscan.definitions.nuspec"
+      ]
+    },
+    "Reloaded.Memory.SigScan.ReloadedII.Interfaces/1.2.0": {
+      "sha512": "iRorTjJJA2d+u6hqv4C9fKbdC8KQN3bQ0bRpWv/4MoK6bTcDzetJhBgbsB5opgNJXb97KxFupxZlS84ykMxqTg==",
+      "type": "package",
+      "path": "reloaded.memory.sigscan.reloadedii.interfaces/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Reloaded.Memory.SigScan.ReloadedII.Interfaces.dll",
+        "lib/netstandard2.0/Reloaded.Memory.SigScan.ReloadedII.Interfaces.xml",
+        "reloaded.memory.sigscan.reloadedii.interfaces.1.2.0.nupkg.sha512",
+        "reloaded.memory.sigscan.reloadedii.interfaces.nuspec"
+      ]
+    },
     "Reloaded.Mod.Interfaces/2.4.0": {
       "sha512": "HKQu7M0MyToKU4NK5Ula29MXSNeHz01ZzMK9BWD+xqJCITemAPdMW+w60Swln3ceGCU/ZooFSKtn4I8rcSA9AQ==",
       "type": "package",
@@ -143,6 +201,7 @@
   "projectFileDependencyGroups": {
     "net7.0-windows7.0": [
       "Reloaded.Memory >= 9.4.2",
+      "Reloaded.Memory.SigScan.ReloadedII.Interfaces >= 1.2.0",
       "Reloaded.Mod.Interfaces >= 2.4.0",
       "Reloaded.SharedLib.Hooks >= 1.9.0"
     ]
@@ -200,6 +259,10 @@
           "Reloaded.Memory": {
             "target": "Package",
             "version": "[9.4.2, )"
+          },
+          "Reloaded.Memory.SigScan.ReloadedII.Interfaces": {
+            "target": "Package",
+            "version": "[1.2.0, )"
           },
           "Reloaded.Mod.Interfaces": {
             "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
